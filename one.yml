@@ -1,0 +1,9 @@
+---# first file to ls the list of file in yaml format
+- hosts: all # include all hosts whhich available in lists
+  tasks: 
+     - name: list out file using shell module
+       shell: ls -lart
+       register: list
+     - name: show output on cli at run time
+       debug:
+          msg: "{{ list.stdout_lines }}"
