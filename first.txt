@@ -1,2 +1,4 @@
 print("hello_ world"
 echo not so much world)
+hostname
+ipconfig
