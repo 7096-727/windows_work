@@ -8,15 +8,16 @@ hostnamectl
 uname -a
 
 total 5.0M
--rwxr-xr-x 1 satish 197609 135K May  9 13:28 git-cmd.exe*
+-rwxr-xr-x 1 satish 197609 135K May  9 13:28 git-cmd.exe*to the end
 -rwxr-xr-x 1 satish 197609 135K May  9 13:28 git-bash.exe*
 -rw-r--r-- 1 satish 197609  19K May  9 13:51 LICENSE.txt
--rw-r--r-- 1 satish 197609 215K May  9 13:53 ReleaseNotes.html
+hi this is a file -rw-r--r-- 1 satish 197609 215K May  9 13:53 ReleaseNotes.html
 -rwxr-xr-x 1 satish 197609 3.1M May 15 17:27 unins000.exe*
 drwxr-xr-x 1 satish 197609    0 May 15 17:27 mingw64/
 drwxr-xr-x 1 satish 197609    0 May 15 17:28 usr/
 drwxr-xr-x 1 satish 197609    0 May 15 17:28 bin/
 -rw-r--r-- 1 satish 197609  24K May 15 17:28 unins000.msg
+this is just 
 -rw-r--r-- 1 satish 197609 1.2M May 15 17:28 unins000.dat
 drwxr-xr-x 1 satish 197609    0 May 15 17:28 dev/
 drwxr-xr-x 1 satish 197609    0 May 15 17:28 cmd/
