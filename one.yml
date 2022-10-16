@@ -7,3 +7,8 @@
      - name: show output on cli at run time
        debug:
           msg: "{{ list.stdout_lines }}"
+     - name: dns name list
+       shell: hostnamectl
+       register: shell
+     - name: shell out put
+       debug: msg="{{shell.stdout_lines}}"
