@@ -1,0 +1,4 @@
+this is second file 
+this is not host name this is dns entries
+after adding these entries you need to make new servers dns entries
+
