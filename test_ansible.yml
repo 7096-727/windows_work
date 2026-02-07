@@ -1,5 +1,5 @@
----# first file to ls the list of file in yaml format
-- hosts: all # include all hosts whhich available in lists
+---
+- hosts: all 
   tasks: 
      - name: list out file using shell module
        shell: ls -lart
